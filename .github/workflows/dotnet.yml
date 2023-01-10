@@ -18,8 +18,8 @@ jobs:
         with:
           dotnet-version: 7.0.x
       - name: Restore dependencies
-        run: dotnet restore Codewrinkles.HIBPDotNetCore.Client/src/Codewrinkles.HIBPDotNetCore.Client
+        run: dotnet restore Codewrinkles.HIBPDotNetCore.Client/src/
       - name: Build
-        run: dotnet build Codewrinkles.HIBPDotNetCore.Client/src/Codewrinkles.HIBPDotNetCore.Client --no-restore
+        run: dotnet build Codewrinkles.HIBPDotNetCore.Client/src/ --no-restore
       - name: Test
-        run: dotnet test Codewrinkles.HIBPDotNetCore.Client/tests/Codewrinkles.HIBPDotNetCore.Client.UnitTests --no-restore --no-build
+        run: dotnet test Codewrinkles.HIBPDotNetCore.Client/tests/ --no-restore --no-build
