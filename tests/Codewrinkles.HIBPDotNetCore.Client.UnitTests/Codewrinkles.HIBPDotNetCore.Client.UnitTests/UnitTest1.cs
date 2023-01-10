@@ -1,4 +1,4 @@
-namespace Codwrinkles.HIBPDotNetCore.Client.UnitTests;
+namespace Codewrinkles.HIBPDotNetCore.Client.UnitTests;
 
 public class UnitTest1
 {
