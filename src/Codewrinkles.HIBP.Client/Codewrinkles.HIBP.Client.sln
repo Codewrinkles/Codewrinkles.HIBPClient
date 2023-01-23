@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewrinkles.HIBPDotNetCore.Client", "Codewrinkles.HIBPDotNetCore.Client\Codewrinkles.HIBPDotNetCore.Client.csproj", "{D486C143-AF11-454D-B945-F1EB487FF936}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewrinkles.HIBP.Client", "Codewrinkles.HIBP.Client\Codewrinkles.HIBP.Client.csproj", "{D486C143-AF11-454D-B945-F1EB487FF936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
