@@ -6,4 +6,10 @@
         <TargetFrameworks>net6.0;net6.0-windows;net7.0;net7.0-windows</TargetFrameworks>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Exceptions" />
+      <Folder Include="Logging" />
+      <Folder Include="Responses" />
+    </ItemGroup>
+
 </Project>
