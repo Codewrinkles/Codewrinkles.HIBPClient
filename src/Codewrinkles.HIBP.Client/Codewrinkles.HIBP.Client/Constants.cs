@@ -1,5 +1,6 @@
 ﻿namespace Codewrinkles.HIBP.Client;
 
-public class Class1
+internal static class Constants
 {
+    
 }
