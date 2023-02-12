@@ -2,5 +2,5 @@
 
 internal static class Constants
 {
-    public const string BaseAddress = "https://haveibeenpwned.com/api/v3/";
+    public const string BASE_ENDPOINT = "https://haveibeenpwned.com/api/v3/";
 }
