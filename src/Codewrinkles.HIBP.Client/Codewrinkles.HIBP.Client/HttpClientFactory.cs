@@ -13,7 +13,7 @@ namespace Codewrinkles.HIBP.Client
         internal static HttpClient? CreateDefault(string apiKey)
         {
             var client = new HttpClient();
-            GetBaseAddress(client, null!);
+            SetBaseAddress(client, null!);
             client.DefaultRequestHeaders.Add("hibp-api-key", apiKey);
             client.Timeout = TimeSpan.FromSeconds(Constants.API.REQUEST_TIMEOUT);
             return client;
