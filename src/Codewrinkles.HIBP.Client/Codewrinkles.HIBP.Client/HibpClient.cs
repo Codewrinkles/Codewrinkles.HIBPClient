@@ -1,4 +1,5 @@
 ﻿using Codewrinkles.HIBP.Client.Abstractions;
+using Codewrinkles.HIBP.Client.Options;
 
 namespace Codewrinkles.HIBP.Client;
 
