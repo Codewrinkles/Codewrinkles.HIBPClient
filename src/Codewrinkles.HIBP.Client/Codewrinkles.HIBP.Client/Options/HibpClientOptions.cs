@@ -63,7 +63,7 @@ public class HibpClientOptions
     public HibpClientOptions()
     {
         Headers = new Dictionary<string, string>();
-        BaseAddress = Constants.BASE_ENDPOINT;
+        BaseAddress = Constants.API.BASE_ENDPOINT;
         IncludeUnverifiedBreaches = false;
         TruncateResponse = false;
     }
