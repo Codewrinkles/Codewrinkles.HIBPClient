@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewrinkles.HIBP.Client", "Codewrinkles.HIBP.Client\Codewrinkles.HIBP.Client.csproj", "{D486C143-AF11-454D-B945-F1EB487FF936}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewrinkles.HIBP.Client.Console", "Codewrinkles.HIBP.Client.Console\Codewrinkles.HIBP.Client.Console.csproj", "{4A41799C-7BE2-42CE-8B9B-CC4883D08D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewrinkles.HIBP.Client.WebAPI", "Codewrinkles.HIBP.Client.WebAPI\Codewrinkles.HIBP.Client.WebAPI.csproj", "{735173EF-4982-44B2-BE20-73A148113E4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{D486C143-AF11-454D-B945-F1EB487FF936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D486C143-AF11-454D-B945-F1EB487FF936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D486C143-AF11-454D-B945-F1EB487FF936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A41799C-7BE2-42CE-8B9B-CC4883D08D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A41799C-7BE2-42CE-8B9B-CC4883D08D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A41799C-7BE2-42CE-8B9B-CC4883D08D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A41799C-7BE2-42CE-8B9B-CC4883D08D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735173EF-4982-44B2-BE20-73A148113E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735173EF-4982-44B2-BE20-73A148113E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735173EF-4982-44B2-BE20-73A148113E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735173EF-4982-44B2-BE20-73A148113E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
